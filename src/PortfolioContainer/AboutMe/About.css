@@ -1,8 +1,7 @@
 .about-container{
     padding: 60px 0;
     font-family: 'Poppins', sans-serif;
-    background: rgb(34,120,219);
-    background: linear-gradient(84deg, rgb(74, 255, 3) 0%, rgb(21, 0, 255) 100%);
+    background-color: #6c6cba;
 }
 
 .about-header{
@@ -13,7 +12,8 @@
     align-items: center;
     justify-content: center;
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 400;
+    color: #fdf9fa;
 }
 .about-header h3{
     font-size: 40px;
@@ -28,18 +28,21 @@
 .header-underline{
     height: 3px;
     width: 200px;
-    background-color: rgb(102, 13, 13);
+    /* background-color: rgb(255, 255, 255); */
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid white;
 }
 .header-underline1{
     height: 9px;
     width: 40px;
-    background-color: rgb(255, 7, 7);
+    /* background-color: rgb(255, 255, 255); */
     position: absolute;
     border-radius: 5px;
+    color: #fdf9fa;
+    /* border: 1px solid red; */
 }
 
 .about-content-box{
@@ -53,25 +56,28 @@
     height: 600px;
     width: 80%;
     /* border: 1px solid black; */
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
     display: flex;
     justify-content: center;
 }
 .profilePic{
     width: 48%;
     overflow: hidden;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: #6c6cba;
+    /* border: 1px solid yellow; */
 }
 .profilePic img{
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     object-fit: cover;
 }
 
 .profile-content{
     width: 52%;
     padding: 40px 40px 40px 30px;
-    background-color: rgb(255, 255, 255);
+    background-color: #6c6cba;
+    color: #fdf9fa;
     text-align: justify;
     word-spacing: 5px;
     line-height: 2;
@@ -80,7 +86,7 @@
     margin-top: 40px;
 }
 .keyHighlights{
-    list-style-type: "🔴 ";
+    list-style-type:"👉 ";
 }
 
 .resumeBtn{
@@ -124,9 +130,10 @@
     }
     .profile-content{
         width: 100%;
-        background-color: #fdf9fa;
+        background-color: #6c6cba;
         text-align: justify;
         word-spacing: 5px;
+        color: #fdf9fa;
         line-height: 2;
     }
 }
@@ -154,7 +161,7 @@
         padding: 0 10px;
     }
     .keyHighlights{
-        list-style-type: "🔴 ";
+        list-style-type: "👉 ";
     }
     
     .resumeBtn{

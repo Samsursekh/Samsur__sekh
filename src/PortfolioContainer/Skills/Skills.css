@@ -2,9 +2,9 @@
     padding: 60px 0;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Montserrat', sans-serif;
-    background: rgb(34,120,219);
-    background: linear-gradient(84deg, rgb(3, 255, 3) 0%, rgb(0, 51, 255) 100%);
+    background-color: #6c6cba;
     /* border: 2px solid red; */
+    margin-top: -50px;
 }
 
 .skills-header{
@@ -16,6 +16,7 @@
     justify-content: center;
     font-size: 25px;
     font-weight: 600;
+    color: #e9ecef;
 }
 .skills-header h3{
     font-size: 40px;

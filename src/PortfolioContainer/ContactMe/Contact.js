@@ -52,7 +52,7 @@ export default function Contact() {
             <div className="callBtn btnTp">
               <FaPhoneAlt />
               <p>PHONE</p>
-              <span>Contact me </span>
+              <span className="blue">Contact me </span>
               <p className="contactNo">
                 <a href="tel:9339316583" target="_blank">
                 9339316583
@@ -62,7 +62,7 @@ export default function Contact() {
             <div className="emailBtn btnTp">
               <MdEmail />
               <p>EMAIL</p>
-              <span>Contact me on email address</span>
+              <span className="blue">Contact me on email address</span>
               <p className="contactNo">
                 <a href="mailto: samsur.sekh.masai@gmail.com" target="_blank">
                 samsur.sekh.masai@gmail.com
@@ -72,7 +72,7 @@ export default function Contact() {
             <div className="addrBtn btnTp">
               <FaMapMarkerAlt />
               <p>LOCATION</p>
-              <span>Kolkata , West Bengal</span>
+              <span className="blue">Kolkata , West Bengal</span>
               <p className="contactNo">
                 <a href="https://www.google.co.in/maps/place/Kolkata,+West+Bengal/@22.6759958,88.3297288,99193m/data=!3m2!1e3!4b1!4m5!3m4!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.572646!4d88.363895?hl=en&authuser=0" target="_blank">
                   View on Google Map

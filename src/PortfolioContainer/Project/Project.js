@@ -59,7 +59,7 @@ export default function Project() {
 
         {/* card 2 */}
         <div className="project-card">
-            <img src={CampaignMonitor__clone} alt="" />
+            <img src={CampaignMonitor__clone} className="camp" alt="" />
             <div className='card-body'>
                 <div class="badge">Frontend</div>
                 <div className='projectName'>CampaignMonitor__clone</div>
@@ -75,7 +75,7 @@ export default function Project() {
                 within some times.
                 </div>
                 <div className='projectLinks'>
-                <a className='projectbtn1' href="https://github.com/Samsursekh/social-celery-8599" target='_blank'><AiOutlineGithub/> GitHub</a>
+                <a className='projectbtn1' href="https://github.com/Samsursekh/social-celery-8599/tree/day5/my-app" target='_blank'><AiOutlineGithub/> GitHub</a>
                     <a className='projectbtn2' href="https://my-app-taupe-kappa.vercel.app/" target='_blank'>Demo <TbExternalLink/></a>
                 </div>
             </div>
