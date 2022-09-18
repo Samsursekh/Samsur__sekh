@@ -68,7 +68,7 @@
     overflow: hidden;
     width: 600px;
     box-sizing: border-box;
-    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2); */
     /* border: 1px solid red; */
     
 }
@@ -84,7 +84,7 @@
 .card-body{
     position: relative;
     background: #fafafa;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     height: 50%;
     
 }
@@ -112,6 +112,7 @@
 }
 .projectLinks{
     padding: 20px 0;
+    /* border: 1px solid red; */
 }
 .projectLinks .projectbtn1{
     display: flex;
@@ -182,11 +183,11 @@
 @media screen and (min-width: 320px){
    
     .project-card{
-        padding-bottom: 50px;
+        padding-bottom: 30px;
     }
     
     .projectLinks {
-        margin-bottom: 20px;
-        /* border: 2px solid red; */
+        margin-bottom: 0px;
+        /* border: 1px solid red; */
     }
 }

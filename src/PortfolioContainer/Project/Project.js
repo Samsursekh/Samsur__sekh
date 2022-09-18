@@ -69,10 +69,12 @@ export default function Project() {
                     <img src={react_logo}/>
                 </div>
                 <div className="contentProject">
+                    It is basically a Email marketing website where user can make 
+                    a business email by clicking
+                    within some times.
                 It was an individual project.
                 Took 5 days to complete all tasks.
-                Users can have a business email by clicking
-                within some times.
+                 With the help of React.
                 </div>
                 <div className='projectLinks'>
                 <a className='projectbtn1' href="https://github.com/Samsursekh/social-celery-8599/tree/day5/my-app" target='_blank'><AiOutlineGithub/> GitHub</a>
