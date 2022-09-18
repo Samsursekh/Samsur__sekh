@@ -5,6 +5,7 @@ import  {GiSkills } from 'react-icons/gi';
 import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
 import  {GrJava, GrReactjs } from 'react-icons/gr';
 import  {RiGitBranchLine} from 'react-icons/ri'
+import GitHubCalendar from "github-calendar";
 
 export default function Skills() {
   return (
@@ -77,6 +78,9 @@ export default function Skills() {
                 </div>
             </div>
         </div>
+        {/* <div className='calender'>
+            {GitHubCalendar(".calendar", "Samsursekh")}
+        </div> */}
     </div>
   )
 }

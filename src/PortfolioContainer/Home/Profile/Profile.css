@@ -191,9 +191,13 @@
 
 @media screen and (max-width: 340px){
     .profile-details-role h1{
-        font-size: 25px;
+        font-size: 22px;
         font-family: 'Kalam', cursive;
         font-weight: 600;
         
+    }
+    .profile-role-tagline{
+        font-size: 15px;
+       
     }
 }
