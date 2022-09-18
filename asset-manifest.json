@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Samsur__sekh/static/css/main.bf622f74.css",
-    "main.js": "/Samsur__sekh/static/js/main.ccc6d085.js",
+    "main.css": "/Samsur__sekh/static/css/main.46927896.css",
+    "main.js": "/Samsur__sekh/static/js/main.3bd180c5.js",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
     "static/media/react_logo.png": "/Samsur__sekh/static/media/react_logo.6bcffb56bd0efaa47767.png",
     "static/media/sam.png": "/Samsur__sekh/static/media/sam.84b81c8d6604fd654bdb.png",
@@ -12,11 +12,11 @@
     "static/media/MySQL.png": "/Samsur__sekh/static/media/MySQL.b0c6147089e1b6dc5f42.png",
     "index.html": "/Samsur__sekh/index.html",
     "static/media/hibernate.svg": "/Samsur__sekh/static/media/hibernate.3ba27e0b6fd7445e70b782fe6cb5aed4.svg",
-    "main.bf622f74.css.map": "/Samsur__sekh/static/css/main.bf622f74.css.map",
-    "main.ccc6d085.js.map": "/Samsur__sekh/static/js/main.ccc6d085.js.map"
+    "main.46927896.css.map": "/Samsur__sekh/static/css/main.46927896.css.map",
+    "main.3bd180c5.js.map": "/Samsur__sekh/static/js/main.3bd180c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf622f74.css",
-    "static/js/main.ccc6d085.js"
+    "static/css/main.46927896.css",
+    "static/js/main.3bd180c5.js"
   ]
 }
