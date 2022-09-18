@@ -59,8 +59,8 @@ export default function Project() {
 
         {/* card 2 */}
         <div className="project-card">
-            <img src={CampaignMonitor__clone} className="camp" alt="" />
-            <div className='card-body'>
+            <img src={CampaignMonitor__clone} style={ {height:"47%" , marginBottom:"0",backgroundColor:'white' , border:"1px solid blue", paddingBottom:"30px"} } className="camp" alt="" />
+            <div className='card-body' style={ { border:"1px solid blue"} } >
                 <div class="badge">Frontend</div>
                 <div className='projectName'>CampaignMonitor__clone</div>
                 <div className='techStack'>
