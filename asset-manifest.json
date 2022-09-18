@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Samsur__sekh/static/css/main.39dc6fc7.css",
-    "main.js": "/Samsur__sekh/static/js/main.601d2e23.js",
+    "main.css": "/Samsur__sekh/static/css/main.c350712a.css",
+    "main.js": "/Samsur__sekh/static/js/main.b66b09e8.js",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
     "static/media/react_logo.png": "/Samsur__sekh/static/media/react_logo.6bcffb56bd0efaa47767.png",
     "static/media/sam.png": "/Samsur__sekh/static/media/sam.84b81c8d6604fd654bdb.png",
     "static/media/rentomozo.jpeg": "/Samsur__sekh/static/media/rentomozo.4170745b8bc61412e8c9.jpeg",
-    "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.c6a840a920895daea39e.jpeg",
+    "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.f07cbaf12dbeceaa6c09.jpeg",
     "static/media/spring.png": "/Samsur__sekh/static/media/spring.f6e91e60d4d95d379abd.png",
     "static/media/postman.svg": "/Samsur__sekh/static/media/postman.648705b5f6469f0767a4736d07313ffe.svg",
     "static/media/MySQL.png": "/Samsur__sekh/static/media/MySQL.b0c6147089e1b6dc5f42.png",
     "index.html": "/Samsur__sekh/index.html",
     "static/media/hibernate.svg": "/Samsur__sekh/static/media/hibernate.3ba27e0b6fd7445e70b782fe6cb5aed4.svg",
-    "main.39dc6fc7.css.map": "/Samsur__sekh/static/css/main.39dc6fc7.css.map",
-    "main.601d2e23.js.map": "/Samsur__sekh/static/js/main.601d2e23.js.map"
+    "main.c350712a.css.map": "/Samsur__sekh/static/css/main.c350712a.css.map",
+    "main.b66b09e8.js.map": "/Samsur__sekh/static/js/main.b66b09e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.39dc6fc7.css",
-    "static/js/main.601d2e23.js"
+    "static/css/main.c350712a.css",
+    "static/js/main.b66b09e8.js"
   ]
 }
