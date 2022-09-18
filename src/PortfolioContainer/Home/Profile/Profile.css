@@ -26,6 +26,7 @@
     font-size: 40px;
     font-family: 'Kalam', cursive;
     font-weight: 600;
+    
 }
 
 .primary-text{
@@ -169,6 +170,8 @@
         margin-top: -90px;
         /* border:0; */
     }
+  
+
     .profile-details{
         width: 90%; 
     }
@@ -182,5 +185,15 @@
     }
     .resumeButton{
         margin-left: 10px;
+    }
+}
+
+
+@media screen and (max-width: 340px){
+    .profile-details-role h1{
+        font-size: 25px;
+        font-family: 'Kalam', cursive;
+        font-weight: 600;
+        
     }
 }

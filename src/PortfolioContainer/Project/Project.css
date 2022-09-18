@@ -84,7 +84,7 @@
 .card-body{
     position: relative;
     background: #fafafa;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     height: 60%;
     
 }
@@ -112,7 +112,7 @@
 }
 .projectLinks{
     padding: 20px 0;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .projectLinks .projectbtn1{
     display: flex;
@@ -190,6 +190,6 @@
     .projectLinks {
         /* margin-bottom: 90px; */
         height: auto;
-        border: 1px solid red;
+        /* border: 1px solid red; */
     }
 }

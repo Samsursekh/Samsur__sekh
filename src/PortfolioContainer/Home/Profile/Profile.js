@@ -28,8 +28,8 @@ export default function Profile() {
                 </div>
                 <div className="profile-details-role">
                     <span className="primary-text">
-                        <h1>
-                        <Typical
+                        <h1 className='dev'>
+                        <Typical 
                             loop={Infinity}
                             steps ={[
                                 "Energised Developer 🍎",
