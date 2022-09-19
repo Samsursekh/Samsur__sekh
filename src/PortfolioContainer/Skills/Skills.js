@@ -1,9 +1,9 @@
 import React from 'react'
 import './Skills.css'
-import  {FaDharmachakra, FaJava, FaNodeJs } from 'react-icons/fa';
-import  {GiSkills } from 'react-icons/gi';
+import  { FaNodeJs } from 'react-icons/fa';
+// import  {GiSkills } from 'react-icons/gi';
 import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
-import  {GrJava, GrReactjs } from 'react-icons/gr';
+import  { GrReactjs } from 'react-icons/gr';
 import  {RiGitBranchLine} from 'react-icons/ri'
 import GitHubCalendar from "github-calendar";
 
