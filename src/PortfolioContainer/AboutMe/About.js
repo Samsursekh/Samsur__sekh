@@ -31,18 +31,7 @@ export default function About() {
                     about coding and intensely interested to take the the responsibility of a product.
 
                     </div>
-                    <div>
-                        <h3>Here are a Few Highlights</h3>
-                        <ul className='keyHighlights'>
-                            <li> 1200+ Hours of Full Stack Development</li>
-                            <li>500+ Hours of DSA</li>
-                            <li>200+ Hours of Soft Skill</li>
-                            <li>50+ Mini Project</li>
-                            <li>5+ Collaborative Project</li>
-                            <li>Many Other Project</li>
-                           
-                        </ul>
-                    </div>
+                    
                     <div className="profile-optins resumeBtn">
                         <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
                             <button className='resumeButton2'>Get Resume</button>
@@ -51,6 +40,23 @@ export default function About() {
                 </div>
             </div>
         </div>
+         
+        <div className='stat'> 
+        <h1>Statistics</h1> </div>
+           <div className='stat'>
+            
+                           <ul className='keyHighlights'>
+                            <li> 1200+ Hours of Full Stack Development</li>
+                            <li>500+ Hours of DSA</li>
+                            <li>200+ Hours of Soft Skill</li>
+                            <li>50+ Mini Project</li>
+                            <li>5+ Collaborative Project</li>
+                            <li>Many Other Project</li>
+                           
+                        </ul>
+                    
+                 </div> 
+
     </div>
   )
 }

@@ -170,3 +170,19 @@
     
 }
 
+
+
+.profile-content__1{
+    color: #fdf9fa;
+    display: flex;
+    border: 1px solid red;
+    margin: auto;
+    
+}
+
+.stat{
+    display: flex;
+    margin: auto;
+    color: #fdf9fa;
+    justify-content: center;
+}

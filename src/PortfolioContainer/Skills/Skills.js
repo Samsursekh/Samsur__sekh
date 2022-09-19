@@ -5,7 +5,7 @@ import  { FaNodeJs } from 'react-icons/fa';
 import  {ImHtmlFive, ImDatabase} from 'react-icons/im';
 import  { GrReactjs } from 'react-icons/gr';
 import  {RiGitBranchLine} from 'react-icons/ri'
-import GitHubCalendar from "github-calendar";
+import GitHubCalendar from 'react-github-calendar';
 
 export default function Skills() {
   return (
@@ -78,9 +78,12 @@ export default function Skills() {
                 </div>
             </div>
         </div>
-        {/* <div className='calender'>
-            {GitHubCalendar(".calendar", "Samsursekh")}
-        </div> */}
+           <div style={{display:"flex"}}>
+             <h1 className='calender_heading' >Github Calendar</h1>
+            </div>
+        <div className='calender'>
+          <GitHubCalendar username="samsursekh" style={{margin:"auto", padding:"20px"}} />
+        </div>
     </div>
   )
 }
