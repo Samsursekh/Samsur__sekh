@@ -1,6 +1,7 @@
 import React from 'react'
 import Typical from 'react-typical';
 import "./Profile.css";
+import resume from "../../../assets/resume.pdf"
 
 export default function Profile() {
   return (
@@ -47,9 +48,21 @@ export default function Profile() {
                     </span>
                 </div>
                 <div className="profile-optins">
-                    <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
+                    {/* <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
                         <button className='resumeButton'>Get Resume</button>
-                    </a>
+                    </a> */}
+                      
+
+                {/* 👇️👇️👇️👇️👇️👇️👇️👇️ to make it downloadable */}
+
+                       <a href={resume}
+                        download={true}
+                        target="_blank"
+                        rel="noreferrer"
+                        ><button className='resumeButton2'>Get Resume</button></a>
+
+                     
+
                 </div>
             </div>
             <div className="profile-picture">

@@ -1,7 +1,7 @@
 import React from 'react';
 import "./About.css";
-// import profilePic from "../../assets/profilephoto1.jpg";
 import profilePic from "../../assets/sam.png";
+import resume from "../../assets/resume.pdf";
 
 export default function About() {
     
@@ -31,11 +31,20 @@ export default function About() {
                     about coding and intensely interested to take the the responsibility of a product.
 
                     </div>
-                    
+                    <img src="./file/1.jpeg" alt=''/>
+
                     <div className="profile-optins resumeBtn">
-                        <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
+                        {/* <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
                             <button className='resumeButton2'>Get Resume</button>
-                        </a>
+                        </a> */}
+
+                          
+
+                       <a href={resume}
+                        download={true}
+                        target="_blank"
+                        rel="noreferrer"
+                        ><button className='resumeButton2'>Get Resume</button></a>
                     </div>
                 </div>
             </div>

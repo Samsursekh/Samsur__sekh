@@ -6,8 +6,6 @@ import Rentomojo_clone from '../../assets/rentomozo.jpeg';
 import hibernateImg from '../../assets/hibernate.svg';
 
 import react_logo from "../../assets/react_logo.png";
-import springImg from '../../assets/spring.png';
-import mySqlImg from '../../assets/MySQL.png';
 import postmanImg from '../../assets/postman.svg';
 import {AiOutlineGithub} from 'react-icons/ai';
 import {TbExternalLink} from 'react-icons/tb';
