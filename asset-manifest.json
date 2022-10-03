@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/Samsur__sekh/static/css/main.ef1aad9f.css",
-    "main.js": "/Samsur__sekh/static/js/main.a62b293e.js",
+    "main.js": "/Samsur__sekh/static/js/main.a749dcaa.js",
+    "static/media/resume.pdf": "/Samsur__sekh/static/media/resume.05e71466df52ee7a415c.pdf",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
     "static/media/react_logo.png": "/Samsur__sekh/static/media/react_logo.6bcffb56bd0efaa47767.png",
     "static/media/sam.png": "/Samsur__sekh/static/media/sam.84b81c8d6604fd654bdb.png",
     "static/media/rentomozo.jpeg": "/Samsur__sekh/static/media/rentomozo.4170745b8bc61412e8c9.jpeg",
     "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.f07cbaf12dbeceaa6c09.jpeg",
-    "static/media/spring.png": "/Samsur__sekh/static/media/spring.f6e91e60d4d95d379abd.png",
     "static/media/postman.svg": "/Samsur__sekh/static/media/postman.648705b5f6469f0767a4736d07313ffe.svg",
-    "static/media/MySQL.png": "/Samsur__sekh/static/media/MySQL.b0c6147089e1b6dc5f42.png",
     "index.html": "/Samsur__sekh/index.html",
     "static/media/hibernate.svg": "/Samsur__sekh/static/media/hibernate.3ba27e0b6fd7445e70b782fe6cb5aed4.svg",
     "main.ef1aad9f.css.map": "/Samsur__sekh/static/css/main.ef1aad9f.css.map",
-    "main.a62b293e.js.map": "/Samsur__sekh/static/js/main.a62b293e.js.map"
+    "main.a749dcaa.js.map": "/Samsur__sekh/static/js/main.a749dcaa.js.map"
   },
   "entrypoints": [
     "static/css/main.ef1aad9f.css",
-    "static/js/main.a62b293e.js"
+    "static/js/main.a749dcaa.js"
   ]
 }
