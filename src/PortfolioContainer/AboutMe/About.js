@@ -16,10 +16,10 @@ export default function About() {
         </div>
 
         <div className="about-content-box">
-            <div className="aboutCard">
-                <div className="profilePic">
+            <div className="aboutCard" style={{fontSize: "22px"}}>
+                {/* <div className="profilePic" style={{border: "1px solid red"}}>
                     <img src={profilePic} alt="" />
-                </div>
+                </div> */}
                 <div className="profile-content">
                     <div className="profilesummary">
                     Analytical and detailed oriented Full
