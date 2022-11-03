@@ -2,6 +2,7 @@ import React from 'react';
 import "./About.css";
 import profilePic from "../../assets/sam.png";
 import resume from "../../assets/resume.pdf";
+import GitHubCalendar from 'react-github-calendar';
 
 export default function About() {
     
@@ -52,20 +53,43 @@ export default function About() {
          
         <div className='stat'> 
         <h1>Statistics</h1> </div>
-           <div className='stat'>
+           <div className='stat1'>
             
-                           <ul className='keyHighlights'>
-                            <li> 1200+ Hours of Full Stack Development</li>
+                       <div className='stactStyle'>
+                            <img  alt="Samsur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samsursekh"  style={{width:"97.8%"}} />
+                         </div>
+                           {/* <ul className='keyHighlights'> */}
+                        <div className='parentstat'>  
+                          <div className='childstat'>
+                            <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsursekh&show_icons=true&locale=en&layout=compact"
+                             alt="samsursekh" /></p>
+                         </div> 
+                        <div className='childstat'>
+                           <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samsursekh" alt="Samsursekh" /></p>
+                        </div>
+                     </div>
+                       
+                            {/* <li> 1200+ Hours of Full Stack Development</li>
                             <li>500+ Hours of DSA</li>
                             <li>200+ Hours of Soft Skill</li>
                             <li>50+ Mini Project</li>
                             <li>5+ Collaborative Project</li>
-                            <li>Many Other Project</li>
+                            <li>Many Other Project</li> */}
                            
-                        </ul>
+                        {/* </ul> */}
+                </div>
+                        {/* <div style={{margin:"auto"}}> */}
+            <div className='calender_heading' > <h1 className='headingCalen'>Github Calendar</h1> </div>
+            
+        <div className='calender'>
+          <GitHubCalendar username="samsursekh" style={{margin:"auto", padding:"20px"}} />
+        </div>
                     
-                 </div> 
+                 {/* </div>  */}
 
     </div>
   )
 }
+
+
+// npm install --save react-github-user-stats

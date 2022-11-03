@@ -186,3 +186,89 @@
     color: #fdf9fa;
     justify-content: center;
 }
+
+/* calender suru hua ha yaha se */
+
+.calender{
+    /* border: 1px solid red;  */
+    display: flex;
+    padding: 10px;
+   
+}
+.calender_heading{
+   padding-top: 80px;
+    /* font-size: 26px; */
+    /* border: 1px solid red; */
+    /* margin: auto; */
+    color: #e9ecef;
+    width: 300px;
+    
+    margin: auto;
+}
+
+.headingCalen{
+    /* border: 1px solid teal; */
+    width: 100%;
+    display: flex;
+}
+/* font-size: 20px; */
+ /* @media screen and (max-width: 2000px){
+   
+    .calender_heading{
+        font-size: 10px;
+        color: #ffffff;
+        width: 40%;
+        margin: auto;
+        border: 1px solid rgb(30, 0, 255);
+
+    }
+} */
+
+/*
+ @media screen and (max-width: 340px){
+    .calender_heading{
+        font-size: 10px;
+        color: #ffffff;
+    }
+} */
+        /* width: 20%; */
+
+
+        .stactStyle{
+            margin-top: 60px;
+            width: 60%;
+            margin: auto;
+            /* style={{marginTop:"60px" , width:"50%", margin:"auto"}} */
+        }
+
+        @media screen and (max-width: 600px){
+            .stactStyle{
+                margin-top: 60px;
+                width: 70%;
+                margin: auto;
+            }
+        }
+
+        .parentstat{
+         display: flex;
+         width: 60%;
+         margin: auto;
+
+        }
+        .childstat{
+            margin: auto;
+            width: 70%;
+            justify-content: space-between;
+        }
+
+        @media screen and (max-width: 600px){
+        .parentstat{
+            display: grid;
+            width: 100%;
+            margin: auto;
+           }
+        }
+
+        .childstat > p > img{
+            width: 97%;
+        }

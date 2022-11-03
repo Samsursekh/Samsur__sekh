@@ -1,17 +1,18 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './Project.css';
 
 import CampaignMonitor__clone from '../../assets/CampaignMonitor__clone.jpeg';
 import Rentomojo_clone from '../../assets/rentomozo.jpeg';
-import hibernateImg from '../../assets/hibernate.svg';
-
+import Jiomart__clone from "../../assets/Jiomart__clone.jpeg";
 import react_logo from "../../assets/react_logo.png";
-import postmanImg from '../../assets/postman.svg';
 import {AiOutlineGithub} from 'react-icons/ai';
 import {TbExternalLink} from 'react-icons/tb';
 import html5 from '../../assets/icons8-html-5-144.png';
 import css3 from '../../assets/icons8-css3-144.png';
 import js from '../../assets/icons8-javascript-144.png';
+import redux from '../../assets/redux.png';
+import chakra from '../../assets/chakra.jpg';
+import gearbest from "../../assets/gearbest.jpeg"
 
 export default function Project() {
   
@@ -81,8 +82,52 @@ export default function Project() {
             </div>
         </div>
 
+ {/* card 3 */}
+ <div className="project-card">
+            <img src={Jiomart__clone} style={ {height:"47%" , marginBottom:"0",backgroundColor:'white' , paddingBottom:"30px"} } className="camp" alt="" />
+            <div className='card-body' style={ { border:"1px solid blue"} } >
+                <div class="badge">Frontend</div>
+                <div className='projectName'>Jiomart__clone</div>
+                <div className='techStack'>
+                    <img src={html5}/>
+                    <img src={css3}/>
+                    <img src={react_logo}/>
+                    <img src={redux}/>
+                    <img src={chakra} />
+                </div>
+                <div className="contentProject">
+                Have cloned the Online Grocery- JioMart website. JioMart is an Indian ecommerce website, where user can choose and buy online products such as Grocery, electronic , Fashion & Beauty products and much more.
+                </div>
+                <div className='projectLinks'>
+                <a className='projectbtn1' href="https://github.com/Tushar9546/prickly-partner-2503" target='_blank'><AiOutlineGithub/> GitHub</a>
+                    <a className='projectbtn2' href="https://comfy-mousse-36a1be.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
+                </div>
+            </div>
+        </div>
 
+{/* card 4 */}
+<div className="project-card">
+            <img src={gearbest} style={ {height:"47%" , marginBottom:"0",backgroundColor:'white' , paddingBottom:"30px"} } className="camp" alt="" />
+            <div className='card-body' style={ { border:"1px solid blue"} } >
+                <div class="badge">Frontend</div>
+                <div className='projectName'>Gearbest__clone</div>
+                <div className='techStack'>
+                    <img src={html5}/>
+                    <img src={css3}/>
+                    <img src={js}/>
+                </div>
+                <div className="contentProject">
+                  gearbest.com is an innovative online Chinese company providing wholesale electronics, appliances, apparel, and accessories.
 
+            worked on this project during unit-3 construct week at Masai School with the help of other six team members.
+                </div>
+                <div className='projectLinks'>
+                <a className='projectbtn1' href="https://github.com/anuragg0107/gearbest-clone" target='_blank'><AiOutlineGithub/> GitHub</a>
+                    <a className='projectbtn2' href="https://incredible-bubblegum-472de9.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
+                    {/* https://incredible-bubblegum-472de9.netlify.app/ */}   {/* this is the deploy link */}
+                </div>
+            </div>
+        </div>
     
          </div>
       </div>
