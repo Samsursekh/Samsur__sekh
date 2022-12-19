@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Samsur__sekh/static/css/main.ed7ec826.css",
+    "main.css": "/Samsur__sekh/static/css/main.50c3a9a4.css",
     "main.js": "/Samsur__sekh/static/js/main.69a1a375.js",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
     "static/media/Samsur sekh resume.pdf": "/Samsur__sekh/static/media/Samsur sekh resume.6d87b1d84ad933c387d4.pdf",
@@ -11,11 +11,11 @@
     "static/media/rentomozo.jpeg": "/Samsur__sekh/static/media/rentomozo.4170745b8bc61412e8c9.jpeg",
     "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.f07cbaf12dbeceaa6c09.jpeg",
     "index.html": "/Samsur__sekh/index.html",
-    "main.ed7ec826.css.map": "/Samsur__sekh/static/css/main.ed7ec826.css.map",
+    "main.50c3a9a4.css.map": "/Samsur__sekh/static/css/main.50c3a9a4.css.map",
     "main.69a1a375.js.map": "/Samsur__sekh/static/js/main.69a1a375.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7ec826.css",
+    "static/css/main.50c3a9a4.css",
     "static/js/main.69a1a375.js"
   ]
 }
