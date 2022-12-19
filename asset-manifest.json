@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Samsur__sekh/static/css/main.eaf72fc0.css",
-    "main.js": "/Samsur__sekh/static/js/main.1d5dab45.js",
+    "main.css": "/Samsur__sekh/static/css/main.ed7ec826.css",
+    "main.js": "/Samsur__sekh/static/js/main.69a1a375.js",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
-    "static/media/resume.pdf": "/Samsur__sekh/static/media/resume.6d87b1d84ad933c387d4.pdf",
+    "static/media/Samsur sekh resume.pdf": "/Samsur__sekh/static/media/Samsur sekh resume.6d87b1d84ad933c387d4.pdf",
     "static/media/gearbest.jpeg": "/Samsur__sekh/static/media/gearbest.a1e3d6c5846e97b34379.jpeg",
     "static/media/Jiomart__clone.jpeg": "/Samsur__sekh/static/media/Jiomart__clone.85a7c13230ff20c186ca.jpeg",
     "static/media/react_logo.png": "/Samsur__sekh/static/media/react_logo.6bcffb56bd0efaa47767.png",
@@ -11,11 +11,11 @@
     "static/media/rentomozo.jpeg": "/Samsur__sekh/static/media/rentomozo.4170745b8bc61412e8c9.jpeg",
     "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.f07cbaf12dbeceaa6c09.jpeg",
     "index.html": "/Samsur__sekh/index.html",
-    "main.eaf72fc0.css.map": "/Samsur__sekh/static/css/main.eaf72fc0.css.map",
-    "main.1d5dab45.js.map": "/Samsur__sekh/static/js/main.1d5dab45.js.map"
+    "main.ed7ec826.css.map": "/Samsur__sekh/static/css/main.ed7ec826.css.map",
+    "main.69a1a375.js.map": "/Samsur__sekh/static/js/main.69a1a375.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaf72fc0.css",
-    "static/js/main.1d5dab45.js"
+    "static/css/main.ed7ec826.css",
+    "static/js/main.69a1a375.js"
   ]
 }
