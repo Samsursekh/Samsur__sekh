@@ -155,11 +155,20 @@
     display: flex;
     align-items: center;
     padding-bottom: 20px;
+    /* border: 1px solid red; */
 }
 .techStack p{
     font-size: 18px;
     font-weight: 600;
 }
+.techStack .mernImg{
+   width: 200px;
+   margin-right: 20px;
+   height: 65px;
+   border: 1px solid rgb(62, 4, 255);
+   margin-bottom: -10px;
+}
+
 .techStack img{
     width: 55px;
     /* height: 35px; */

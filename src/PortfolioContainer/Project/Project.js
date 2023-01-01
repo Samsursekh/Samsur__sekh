@@ -13,6 +13,7 @@ import js from '../../assets/icons8-javascript-144.png';
 import redux from '../../assets/redux.png';
 import chakra from '../../assets/chakra.jpg';
 import gearbest from "../../assets/gearbest.jpeg"
+import mernImg from "../../assets/mern.jpg";
 
 export default function Project() {
   
@@ -109,22 +110,22 @@ export default function Project() {
 <div className="project-card">
             <img src={gearbest} style={ {height:"47%" , marginBottom:"0",backgroundColor:'white' , paddingBottom:"30px"} } className="camp" alt="" />
             <div className='card-body' style={ { border:"1px solid blue"} } >
-                <div class="badge">Frontend</div>
+                <div class="badge">Full Stack</div>
                 <div className='projectName'>Gearbest__clone</div>
                 <div className='techStack'>
-                    <img src={html5}/>
+                    <img className="mernImg" src={mernImg}/>
                     <img src={css3}/>
-                    <img src={js}/>
+                    <img src={redux}/>
+                    <img src={chakra}/>
                 </div>
                 <div className="contentProject">
                   gearbest.com is an innovative online Chinese company providing wholesale electronics, appliances, apparel, and accessories.
 
-            worked on this project during unit-3 construct week at Masai School with the help of other six team members.
+            worked on this project during unit-6 construct week at Masai School with the help of 3 other team members.
                 </div>
                 <div className='projectLinks'>
-                <a className='projectbtn1' href="https://github.com/anuragg0107/gearbest-clone" target='_blank'><AiOutlineGithub/> GitHub</a>
-                    <a className='projectbtn2' href="https://incredible-bubblegum-472de9.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
-                    {/* https://incredible-bubblegum-472de9.netlify.app/ */}   {/* this is the deploy link */}
+                <a className='projectbtn1' href="https://github.com/akashkanade9182/melodic-bead-3842" target='_blank'><AiOutlineGithub/> GitHub</a>
+                    <a className='projectbtn2' href="https://gadgetbest.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
                 </div>
             </div>
         </div>

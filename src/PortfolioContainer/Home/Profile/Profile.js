@@ -1,7 +1,7 @@
 import React from 'react'
 import Typical from 'react-typical';
 import "./Profile.css";
-import resume from "../../../assets/resume.pdf"
+import resume from "../../../assets/Samsur sekh resume.pdf"
 
 export default function Profile() {
   return (
@@ -48,7 +48,7 @@ export default function Profile() {
                     </span>
                 </div>
                 <div className="profile-optins">
-                    {/* <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="resume.pdf">
+                    {/* <a href="https://drive.google.com/file/d/15Jxx-z-s4Efkfupdu1KH_g0nKGiGHUju/view?usp=sharing" target="_blank" download="Samsur sekh resume.pdf">
                         <button className='resumeButton'>Get Resume</button>
                     </a> */}
                       
