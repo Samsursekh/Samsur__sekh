@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Samsur__sekh/static/css/main.50c3a9a4.css",
-    "main.js": "/Samsur__sekh/static/js/main.69a1a375.js",
+    "main.css": "/Samsur__sekh/static/css/main.1be2435c.css",
+    "main.js": "/Samsur__sekh/static/js/main.44abf4dc.js",
     "static/media/SamsurDP.jpg": "/Samsur__sekh/static/media/SamsurDP.cc8cc8a9f89528107bf9.jpg",
     "static/media/Samsur sekh resume.pdf": "/Samsur__sekh/static/media/Samsur sekh resume.6d87b1d84ad933c387d4.pdf",
     "static/media/gearbest.jpeg": "/Samsur__sekh/static/media/gearbest.a1e3d6c5846e97b34379.jpeg",
@@ -10,12 +10,13 @@
     "static/media/sam.png": "/Samsur__sekh/static/media/sam.84b81c8d6604fd654bdb.png",
     "static/media/rentomozo.jpeg": "/Samsur__sekh/static/media/rentomozo.4170745b8bc61412e8c9.jpeg",
     "static/media/CampaignMonitor__clone.jpeg": "/Samsur__sekh/static/media/CampaignMonitor__clone.f07cbaf12dbeceaa6c09.jpeg",
+    "static/media/mern.jpg": "/Samsur__sekh/static/media/mern.aff2d69a6ac47c167473.jpg",
     "index.html": "/Samsur__sekh/index.html",
-    "main.50c3a9a4.css.map": "/Samsur__sekh/static/css/main.50c3a9a4.css.map",
-    "main.69a1a375.js.map": "/Samsur__sekh/static/js/main.69a1a375.js.map"
+    "main.1be2435c.css.map": "/Samsur__sekh/static/css/main.1be2435c.css.map",
+    "main.44abf4dc.js.map": "/Samsur__sekh/static/js/main.44abf4dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.50c3a9a4.css",
-    "static/js/main.69a1a375.js"
+    "static/css/main.1be2435c.css",
+    "static/js/main.44abf4dc.js"
   ]
 }
